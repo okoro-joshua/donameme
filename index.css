@@ -1,0 +1,1396 @@
+@media screen and (min-width:360px) {
+    * {
+            margin: 0;
+            padding: 0;
+        }
+        .container,.container1,.container3,.container6{
+            width: 360px;
+            height: 3200px;
+            background-color: yellow;
+            
+        }
+    
+        .topcon {
+            width: 360px;
+            height: 40px;
+            position: relative;
+    
+    
+        }
+    
+        .logo {
+            width: 50px;
+            position: absolute;
+            margin-left: 5px;
+            margin-top: 5px;
+        }
+    
+        .bi-justify {
+            margin-top: 5px;
+            position: absolute;
+            z-index: 1;
+            margin-left: 330px;
+            cursor: pointer;
+            color: red;
+            height: 30px;
+        }
+        
+    
+}
+
+.black,.imgcon{
+    width: 360px;
+    height: 400px;
+    background-color: black;
+    color: rgb(237, 149, 18);
+    margin: 20px auto;
+    margin-top: -5px;
+    position: relative;
+}
+.virtual{
+    margin: 150px 130px auto;
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 25px;
+
+    
+ 
+   
+}
+.the{
+    display: block;
+    margin-left: 12px;
+}
+.is{
+    position: absolute;
+    display: block;
+    margin-left: 4px;
+    width: 200px;
+   
+}
+.text{
+    width: 30px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+}
+.discover{
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    background-color: rgb(255, 94, 0);
+    margin-top: 320px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.dis{
+  margin-top: 15px;
+  margin-left: 28px;
+  
+}
+.disc{
+    color: white;
+    text-decoration: none;
+}
+.image01{
+    width: 310px;
+    position: absolute;
+    margin-top: -20px;
+    box-shadow: 1px 1px 3px 6px rgb(199, 198, 198);
+   
+}
+.image1,.real{
+    margin: 20px auto;
+        position: absolute;
+        margin-left: 4px;
+        width: 320px;
+        height: 180px;
+        
+       
+      
+}
+.img1con,.img2con,.img3con,.campaign,.report1,.img1con20{
+    width: 320px;
+    height: 400px;
+    background-color: red;
+    margin-left: 25px;
+    position: relative;
+    margin-top: 40px;
+    box-shadow: 1px 1px 15px 1px gray;
+   
+}
+.fea,.feacamp{
+    position: absolute;
+    z-index: 1;
+    margin-top: 235px;
+    font-size: 10px;
+    color: white;
+    opacity: 0.7;
+    margin-left: 15px;
+}
+.tech,.techwoman,.techchi{
+    width: 200px;
+    font-size: 15px;
+    position: absolute;
+    margin-top: 250px;
+    padding-left: 20px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-transform: capitalize;
+
+}
+.facility,.facilityyoung,.facilitychi{
+    margin: 5px;
+}
+.learn{
+    position: absolute;
+    margin-top: 370px;
+    margin-left: 30px;
+    text-transform: capitalize;
+    border-bottom: 3px solid rgb(255, 94, 0);;
+}
+.more{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.see{
+    width: 200px;
+    height: 30px;
+    border: 2px solid rgb(255, 94, 0);
+    margin-top: 40px;
+    position: absolute;
+    margin-left: 75px;
+     
+}
+.lates{
+    padding-left: 50px;
+padding-top: 5px;
+color: rgb(255, 94, 0);
+}
+.latest{
+    color: rgb(255, 94, 0);
+    text-decoration: none;
+}
+.take{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: white;
+
+}
+.syrial{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: white;
+    margin-top: 20px;
+}
+.action{
+    padding-left: 20px;
+    margin-top: 120px;
+    width: 340px;
+    background-color: rgb(255, 94, 0);
+    color: white;
+    height: 500px;
+}
+.as{
+    margin-top: 10px;
+}
+.donate1{
+    width: 300px;
+    height: 40px;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+.today{
+    color: rgb(255, 94, 0);
+    margin-left: 100px;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+.today1{
+    color: rgb(255, 94, 0);
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.woman{
+    width: 320px;
+    margin-left: px;
+    margin-top:-1px;
+    position: absolute;
+}
+.features{
+    margin-top: 150px;
+    margin-left: 40px;
+}
+.image02{
+    width: 310px;
+    margin-left: 50px;
+    box-shadow: 1px 1px 3px 6px rgb(199, 198, 198);
+    margin-left: 1px;
+    margin-top: -16px;
+}
+.camphead{
+    margin-top: 20px;
+    margin-left: 30px;
+    color: white;
+    opacity: 0.7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.billion{
+    text-decoration: none;
+    padding-top: 20px;
+    position: absolute;
+    color: black;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.report2{
+    font-size: 12px;
+    margin-top: 40px;
+    opacity: 0.7;
+}
+.virtual4{
+    color: white;
+    margin: 60px auto;
+    margin-left: 130px;
+}
+.real{
+    width: 321px;
+    height: 200px;
+    background-color: black;
+    margin-left: -1px;
+    margin-top:-1px ;
+    animation-name: real;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+   
+}
+.feacamp{
+    margin-top: 215px;
+}
+.facilityyoung{
+    font-size: 10px;
+    text-transform: lowercase;
+    margin-top: 20px;
+}
+.thevirtual{
+    font-size: 15px;
+}
+@keyframes real{
+    0%{
+        background-color: rgb(97, 97, 8);
+    }
+    66%{
+        background-color: rgb(9, 93, 5);
+    }
+}
+.footer{
+    width: 360px;
+    height: 200px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 35px;
+    margin-top: 20px;
+    margin-left:-1px;
+  position: relative;
+  
+}
+
+.logo2{
+    width: 80px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+   
+    
+}
+.donate12{
+    position: absolute;
+    color: white;
+    z-index: 1;
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    margin-top: 150px;
+    margin-left: 80px;
+    border-radius: 10px;
+    
+}
+.alldonate{
+    margin-left: 60px;
+    margin-top: 9px;
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.narve1{
+    width: 240px;
+    height: 300px;
+    background-color: black;
+    margin-left: 20px;
+    margin-top: -3280px;
+    position: absolute;
+    display: block;
+    position: absolute;
+    border: 2px solid white;
+    margin-left: 113px;
+    transition: 2s;
+    transform: translateX("100px");
+}
+.who{
+    display: block;
+    border-bottom:1px solid rgb(89, 86, 86) ;
+    text-decoration: none;
+    color: white;
+    width: 200px;
+    text-transform: uppercase;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        padding: 7px;
+        opacity: 0.7;
+}
+.what{
+    display: block;
+    border-bottom: 1px solid rgb(89, 86, 86);
+        text-decoration: none;
+        color: white;
+        width: 200px;
+        text-transform: uppercase;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 10px;
+            padding: 7px;
+            opacity: 0.7;
+}
+.human{
+    display: block;
+    border-bottom:1px solid rgb(89, 86, 86);
+        text-decoration: none;
+        color: white;
+        width: 200px;
+        text-transform: uppercase;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 10px;
+            padding: 7px;
+            opacity: 0.7;
+}
+.alllatest{
+    display: block;
+        border-bottom: 1px solid rgb(89, 86, 86);
+        text-decoration: none;
+        color: white;
+        width: 200px;
+        text-transform: uppercase;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 10px;
+          
+          padding: 7px;
+opacity: 0.7;
+}
+.data{
+    display: block;
+        text-decoration: none;
+        color: white;
+        width: 200px;
+        text-transform: uppercase;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10px;
+        padding: 7px;
+        opacity: 0.7;
+
+}
+.content{
+    padding-left: 15px;
+    padding-top: 100px;
+    position: absolute;
+
+}
+.donate6{
+    position: absolute;
+    color: white;
+    width: 100px;
+    contain-intrinsic-height: 100px;
+    background-color:red ;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.woman1,.woman12{
+    width: 320px;
+    height: 500px;
+    background-color:rgb(255, 94, 0);
+    margin-top: 20px;
+    position: relative;
+
+    
+}
+.campaign{
+    margin-top: 150px;
+}
+.earth{
+    font-size: 15px;
+    position: absolute;
+    z-index: 1;
+    color: black;
+    margin-top: 320px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 8px;
+    text-transform: uppercase;
+}
+.earth1{
+    font-size: 13px;
+        position: absolute;
+        z-index: 1;
+        color: black;
+        margin-top: 370px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding-left: 8px;
+}
+.awoman{
+    width: 80px;
+    height: 30px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 440px;
+    border-radius: 6px;
+    margin-left: 15px;
+}
+.womanread{
+    margin-left: 30px;
+    margin-left: 7px;
+  padding-top: 10px;
+    text-decoration: none;
+    color: rgb(255, 94, 0);
+    text-transform: capitalize;
+    margin-top: -2px;
+}
+.container1{
+    height: 500px;
+    
+}
+.woman12{
+    margin-left: 20px;
+}
+.mona{
+    width: 340px;
+    height: 300px;
+    margin: auto;
+box-sizing: border-box;
+
+
+
+
+}
+.monaconent{
+    width: 330px;
+    margin: auto;
+    margin-top: 30px;
+ 
+}
+.monacontent1,.monacontent11,.monacontent17{
+    margin-top: 20px;
+    border: 2px solid gry;
+    width: 340px;
+    margin: auto;
+    height: 740px;
+    position: relative;
+    box-shadow: 1px 1px 15px 1px gray;
+    background-color: white;
+}
+.womandonanete,.womandonanete1{
+    width: 150px;
+    border: 2px solid orange;
+    margin-top: 15px;
+    margin-left: 20px;
+    background-color: white;
+}
+.wd{
+    margin-left: 45px;
+ 
+}
+            
+.wod{
+    color: black;
+text-decoration: none;  
+
+}
+.container3{
+    background-color: rgb(255, 255, 255);
+    height: 760px;
+}
+.facilitychi{
+    width: 300px;
+  
+    font-size: 14px;
+margin-left: -11px;
+
+}
+.img1con20{
+    height: 580px;
+    margin-top: 10px;
+}
+.container6{
+    height: 640px;
+}
+.womandonanete1{
+    margin-top: -60px;
+    position: absolute;
+    margin-left: 60px;
+}
+.donat2{
+    margin-left: 20px;
+}
+.dona{
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+.imgcon{
+  position: absolute;
+  overflow: hidden;
+  width: 360px;
+  height: 400px;
+  margin-top: -1px;
+}
+.img10{
+    width: 600px;
+    height: 501px;
+    position: absolute;
+    transition: 2s;
+   
+}
+#img1{
+background-image: url("IMG_9175.JPG");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+
+
+}
+#img2 {
+    background-image: url("IMG_9172.JPG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+#img3{
+    background-image: url("IMG_9173.JPG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+.live{
+    margin-left: 250px;
+    
+}
+.live1{
+    color: white;
+    margin-top: 30px;
+    position: absolute;
+    text-decoration: none;
+}
+.carewe{
+    color: black;
+    position: absolute;
+    margin-top: 130px;
+}
+.here{
+position: absolute;
+
+}
+.aboutus{
+    text-transform: uppercase;
+    margin: auto;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.monacontent11{
+    height: 900px;
+}
+.monacontent17{
+    height: 100px;
+}
+.exit{
+    
+  
+}
+.bi-x-circle{
+    color: white;
+  
+}
+.exitcon{
+    margin-top: -80px;
+    margin-left: 200px;
+    position: absolute;
+    width: 20px;
+}
+.home{
+    color: white;
+    position: absolute;
+    margin-top: -200px;
+}
+.home1{
+    position: absolute;
+    margin-top: -80px;
+}
+
+
+@media screen and (min-width:401px) {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    .container,
+    .container1,
+    .container3,
+    .container6 {
+        width: 360px;
+        height: 3200px;
+        background-color: rgb(111, 0, 255);
+
+    }
+
+    .topcon {
+        width: 1080px;
+        height: 40px;
+        position: relative;
+
+
+    }
+
+    .logo {
+        width: 50px;
+        position: absolute;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+
+    .bi-justify {
+        margin-top: 5px;
+        position: absolute;
+        z-index: 1;
+        margin-left: 330px;
+        cursor: pointer;
+        color: red;
+        height: 30px;
+    }
+
+
+}
+
+.black,
+.imgcon {
+    width: 360px;
+    height: 400px;
+    background-color: black;
+    color: rgb(237, 149, 18);
+    margin: 20px auto;
+    margin-top: -5px;
+    position: relative;
+}
+
+.virtual {
+    margin: 150px 130px auto;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 25px;
+
+
+
+
+}
+
+.the {
+    display: block;
+    margin-left: 12px;
+}
+
+.is {
+    position: absolute;
+    display: block;
+    margin-left: 4px;
+    width: 200px;
+
+}
+
+.text {
+    width: 30px;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+}
+
+.discover {
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    background-color: rgb(255, 94, 0);
+    margin-top: 320px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.dis {
+    margin-top: 15px;
+    margin-left: 28px;
+
+}
+
+.disc {
+    color: white;
+    text-decoration: none;
+}
+
+.image01 {
+    width: 310px;
+    position: absolute;
+    margin-top: -20px;
+    box-shadow: 1px 1px 3px 6px rgb(199, 198, 198);
+
+}
+
+.image1,
+.real {
+    margin: 20px auto;
+    position: absolute;
+    margin-left: 4px;
+    width: 320px;
+    height: 180px;
+
+
+
+}
+
+.img1con,
+.img2con,
+.img3con,
+.campaign,
+.report1,
+.img1con20 {
+    width: 320px;
+    height: 400px;
+    background-color: red;
+    margin-left: 25px;
+    position: relative;
+    margin-top: 40px;
+    box-shadow: 1px 1px 15px 1px gray;
+
+}
+
+.fea,
+.feacamp {
+    position: absolute;
+    z-index: 1;
+    margin-top: 235px;
+    font-size: 10px;
+    color: white;
+    opacity: 0.7;
+    margin-left: 15px;
+}
+
+.tech,
+.techwoman,
+.techchi {
+    width: 200px;
+    font-size: 15px;
+    position: absolute;
+    margin-top: 250px;
+    padding-left: 20px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+
+}
+
+.facility,
+.facilityyoung,
+.facilitychi {
+    margin: 5px;
+}
+
+.learn {
+    position: absolute;
+    margin-top: 370px;
+    margin-left: 30px;
+    text-transform: capitalize;
+    border-bottom: 3px solid rgb(255, 94, 0);
+    ;
+}
+
+.more {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.see {
+    width: 200px;
+    height: 30px;
+    border: 2px solid rgb(255, 94, 0);
+    margin-top: 40px;
+    position: absolute;
+    margin-left: 75px;
+
+}
+
+.lates {
+    padding-left: 50px;
+    padding-top: 5px;
+    color: rgb(255, 94, 0);
+}
+
+.latest {
+    color: rgb(255, 94, 0);
+    text-decoration: none;
+}
+
+.take {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: white;
+
+}
+
+.syrial {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: white;
+    margin-top: 20px;
+}
+
+.action {
+    padding-left: 20px;
+    margin-top: 120px;
+    width: 340px;
+    background-color: rgb(255, 94, 0);
+    color: white;
+    height: 500px;
+}
+
+.as {
+    margin-top: 10px;
+}
+
+.donate1 {
+    width: 300px;
+    height: 40px;
+    background-color: white;
+    border-radius: 5px;
+
+}
+
+.today {
+    color: rgb(255, 94, 0);
+    margin-left: 100px;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+
+.today1 {
+    color: rgb(255, 94, 0);
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.woman {
+    width: 320px;
+    margin-left: px;
+    margin-top: -1px;
+    position: absolute;
+}
+
+.features {
+    margin-top: 150px;
+    margin-left: 40px;
+}
+
+.image02 {
+    width: 310px;
+    margin-left: 50px;
+    box-shadow: 1px 1px 3px 6px rgb(199, 198, 198);
+    margin-left: 1px;
+    margin-top: -16px;
+}
+
+.camphead {
+    margin-top: 20px;
+    margin-left: 30px;
+    color: white;
+    opacity: 0.7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.billion {
+    text-decoration: none;
+    padding-top: 20px;
+    position: absolute;
+    color: black;
+    text-transform: capitalize;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.report2 {
+    font-size: 12px;
+    margin-top: 40px;
+    opacity: 0.7;
+}
+
+.virtual4 {
+    color: white;
+    margin: 60px auto;
+    margin-left: 130px;
+}
+
+.real {
+    width: 321px;
+    height: 200px;
+    background-color: black;
+    margin-left: -1px;
+    margin-top: -1px;
+    animation-name: real;
+    animation-duration: 2s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+
+}
+
+.feacamp {
+    margin-top: 215px;
+}
+
+.facilityyoung {
+    font-size: 10px;
+    text-transform: lowercase;
+    margin-top: 20px;
+}
+
+.thevirtual {
+    font-size: 15px;
+}
+
+@keyframes real {
+    0% {
+        background-color: rgb(97, 97, 8);
+    }
+
+    66% {
+        background-color: rgb(9, 93, 5);
+    }
+}
+
+.footer {
+    width: 360px;
+    height: 200px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 35px;
+    margin-top: 20px;
+    margin-left: -1px;
+    position: relative;
+
+}
+
+.logo2 {
+    width: 80px;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+
+
+}
+
+.donate12 {
+    position: absolute;
+    color: white;
+    z-index: 1;
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    margin-top: 150px;
+    margin-left: 80px;
+    border-radius: 10px;
+
+}
+
+.alldonate {
+    margin-left: 60px;
+    margin-top: 9px;
+    position: absolute;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.narve1 {
+    width: 240px;
+    height: 300px;
+    background-color: black;
+    margin-left: 20px;
+    margin-top: -3280px;
+    position: absolute;
+    display: block;
+    position: absolute;
+    border: 2px solid white;
+    margin-left: 113px;
+    transition: 2s;
+    transform: translateX("100px");
+}
+
+.who {
+    display: block;
+    border-bottom: 1px solid rgb(89, 86, 86);
+    text-decoration: none;
+    color: white;
+    width: 200px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    padding: 7px;
+    opacity: 0.7;
+}
+
+.what {
+    display: block;
+    border-bottom: 1px solid rgb(89, 86, 86);
+    text-decoration: none;
+    color: white;
+    width: 200px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    padding: 7px;
+    opacity: 0.7;
+}
+
+.human {
+    display: block;
+    border-bottom: 1px solid rgb(89, 86, 86);
+    text-decoration: none;
+    color: white;
+    width: 200px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    padding: 7px;
+    opacity: 0.7;
+}
+
+.alllatest {
+    display: block;
+    border-bottom: 1px solid rgb(89, 86, 86);
+    text-decoration: none;
+    color: white;
+    width: 200px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+
+    padding: 7px;
+    opacity: 0.7;
+}
+
+.data {
+    display: block;
+    text-decoration: none;
+    color: white;
+    width: 200px;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    padding: 7px;
+    opacity: 0.7;
+
+}
+
+.content {
+    padding-left: 15px;
+    padding-top: 100px;
+    position: absolute;
+
+}
+
+.donate6 {
+    position: absolute;
+    color: white;
+    width: 100px;
+    contain-intrinsic-height: 100px;
+    background-color: red;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.woman1,
+.woman12 {
+    width: 320px;
+    height: 500px;
+    background-color: rgb(255, 94, 0);
+    margin-top: 20px;
+    position: relative;
+
+
+}
+
+.campaign {
+    margin-top: 150px;
+}
+
+.earth {
+    font-size: 15px;
+    position: absolute;
+    z-index: 1;
+    color: black;
+    margin-top: 320px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 8px;
+    text-transform: uppercase;
+}
+
+.earth1 {
+    font-size: 13px;
+    position: absolute;
+    z-index: 1;
+    color: black;
+    margin-top: 370px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 8px;
+}
+
+.awoman {
+    width: 80px;
+    height: 30px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 440px;
+    border-radius: 6px;
+    margin-left: 15px;
+}
+
+.womanread {
+    margin-left: 30px;
+    margin-left: 7px;
+    padding-top: 10px;
+    text-decoration: none;
+    color: rgb(255, 94, 0);
+    text-transform: capitalize;
+    margin-top: -2px;
+}
+
+.container1 {
+    height: 500px;
+
+}
+
+.woman12 {
+    margin-left: 20px;
+}
+
+.mona {
+    width: 340px;
+    height: 300px;
+    margin: auto;
+    box-sizing: border-box;
+
+
+
+
+}
+
+.monaconent {
+    width: 330px;
+    margin: auto;
+    margin-top: 30px;
+
+}
+
+.monacontent1,
+.monacontent11,
+.monacontent17 {
+    margin-top: 20px;
+    border: 2px solid gry;
+    width: 340px;
+    margin: auto;
+    height: 740px;
+    position: relative;
+    box-shadow: 1px 1px 15px 1px gray;
+    background-color: white;
+}
+
+.womandonanete,
+.womandonanete1 {
+    width: 150px;
+    border: 2px solid orange;
+    margin-top: 15px;
+    margin-left: 20px;
+    background-color: white;
+}
+
+.wd {
+    margin-left: 45px;
+
+}
+
+.wod {
+    color: black;
+    text-decoration: none;
+
+}
+
+.container3 {
+    background-color: rgb(255, 255, 255);
+    height: 760px;
+}
+
+.facilitychi {
+    width: 300px;
+
+    font-size: 14px;
+    margin-left: -11px;
+
+}
+
+.img1con20 {
+    height: 580px;
+    margin-top: 10px;
+}
+
+.container6 {
+    height: 640px;
+}
+
+.womandonanete1 {
+    margin-top: -60px;
+    position: absolute;
+    margin-left: 60px;
+}
+
+.donat2 {
+    margin-left: 20px;
+}
+
+.dona {
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.imgcon {
+    position: absolute;
+    overflow: hidden;
+    width: 360px;
+    height: 400px;
+    margin-top: -1px;
+}
+
+.img10 {
+    width: 600px;
+    height: 501px;
+    position: absolute;
+    transition: 2s;
+
+}
+
+#img1 {
+    background-image: url("IMG_9175.JPG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+#img2 {
+    background-image: url("IMG_9172.JPG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+#img3 {
+    background-image: url("IMG_9173.JPG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+.live {
+    margin-left: 250px;
+
+}
+
+.live1 {
+    color: white;
+    margin-top: 30px;
+    position: absolute;
+    text-decoration: none;
+}
+
+.carewe {
+    color: black;
+    position: absolute;
+    margin-top: 130px;
+}
+
+.here {
+    position: absolute;
+
+}
+
+.aboutus {
+    text-transform: uppercase;
+    margin: auto;
+    margin-left: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.monacontent11 {
+    height: 900px;
+}
+
+.monacontent17 {
+    height: 100px;
+}
+
+.exit {}
+
+.bi-x-circle {
+    color: white;
+
+}
+
+.exitcon {
+    margin-top: -80px;
+    margin-left: 200px;
+    position: absolute;
+    width: 20px;
+}
+
+.home {
+    color: white;
+    position: absolute;
+    margin-top: -200px;
+}
+
+.home1 {
+    position: absolute;
+    margin-top: -80px;
+}
